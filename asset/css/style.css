@@ -60,12 +60,12 @@ header h1 {
   
   .hero {
     background-image: url("../images/hero-bg.jpeg");
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 600px;
   }
-
+  
   .hero-form {
     color: #024e76;
     background-color: #fce138;
@@ -259,3 +259,15 @@ header h1 {
   .contact-info a {
     color: #fce138;
   }
+
+  .page-title {
+    color: #fce138;
+    border-bottom: 4px solid #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+    display: inline-block;
+
+  }
+  
